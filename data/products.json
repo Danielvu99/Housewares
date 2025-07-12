@@ -1,16 +1,242 @@
 [
   {
-    "id": 1,
-    "name": "Ấm đun siêu tốc",
-    "price": 350000,
-    "image": "assets/images/am-sieu-toc.jpg",
-    "description": "Ấm đun siêu tốc 1.8L, inox 304, bảo hành 12 tháng."
+    "name": "Nồi cơm điện Toshiba",
+    "image": "https://images.unsplash.com/photo-1606813902547-f4dd2dcb6f0f?auto=format&fit=crop&w=400&q=80",
+    "price": "1.200.000₫",
+    "description": "Nấu cơm nhanh, giữ ấm lâu, dung tích 1.8L."
   },
   {
-    "id": 2,
-    "name": "Máy xay sinh tố",
-    "price": 790000,
-    "image": "assets/images/may-xay.jpg",
-    "description": "Máy xay sinh tố đa năng công suất 600W, kèm 3 cối."
+    "name": "Máy ép chậm Philips",
+    "image": "https://images.unsplash.com/photo-1625631985681-6028cd5c5b5f?auto=format&fit=crop&w=400&q=80",
+    "price": "2.490.000₫",
+    "description": "Ép trái cây giữ nguyên dưỡng chất, dễ vệ sinh."
+  },
+  {
+    "name": "Máy xay sinh tố Sunhouse",
+    "image": "https://images.unsplash.com/photo-1601041249993-8ba9e2fe3ffe?auto=format&fit=crop&w=400&q=80",
+    "price": "650.000₫",
+    "description": "Động cơ mạnh, lưỡi dao inox bền bỉ."
+  },
+  {
+    "name": "Ấm siêu tốc Lock&Lock",
+    "image": "https://images.unsplash.com/photo-1625937322154-e27c2eb70902?auto=format&fit=crop&w=400&q=80",
+    "price": "420.000₫",
+    "description": "Dung tích 1.7L, công suất 1800W, đế xoay 360°."
+  },
+  {
+    "name": "Lò vi sóng Sharp",
+    "image": "https://images.unsplash.com/photo-1618213834770-769d7d3bc645?auto=format&fit=crop&w=400&q=80",
+    "price": "2.150.000₫",
+    "description": "Công suất 900W, chế độ nấu đa dạng."
+  },
+  {
+    "name": "Máy pha cà phê mini",
+    "image": "https://images.unsplash.com/photo-1573209982525-7fa7fb43fe49?auto=format&fit=crop&w=400&q=80",
+    "price": "1.650.000₫",
+    "description": "Thiết kế nhỏ gọn, pha espresso chuẩn vị."
+  },
+  {
+    "name": "Bình giữ nhiệt Inox 304",
+    "image": "https://images.unsplash.com/photo-1585238342025-78cdd29df4ec?auto=format&fit=crop&w=400&q=80",
+    "price": "210.000₫",
+    "description": "Giữ nóng/lạnh lên đến 12 giờ."
+  },
+  {
+    "name": "Bếp hồng ngoại Kangaroo",
+    "image": "https://images.unsplash.com/photo-1584382293950-fd3b2048eb70?auto=format&fit=crop&w=400&q=80",
+    "price": "980.000₫",
+    "description": "Không kén nồi, 5 chế độ nấu tiện dụng."
+  },
+  {
+    "name": "Máy hút bụi cầm tay",
+    "image": "https://images.unsplash.com/photo-1618213741146-ecfb5b96471b?auto=format&fit=crop&w=400&q=80",
+    "price": "890.000₫",
+    "description": "Thiết kế nhẹ, dễ di chuyển, hút sạch bụi mịn."
+  },
+  {
+    "name": "Bàn ủi hơi nước đứng",
+    "image": "https://images.unsplash.com/photo-1594312915251-48c09e60b940?auto=format&fit=crop&w=400&q=80",
+    "price": "1.300.000₫",
+    "description": "Ủi đồ nhanh, không làm cháy vải."
+  },
+  {
+    "name": "Nồi cơm điện Toshiba",
+    "image": "https://images.unsplash.com/photo-1606813902547-f4dd2dcb6f0f?auto=format&fit=crop&w=400&q=80",
+    "price": "1.200.000₫",
+    "description": "Nấu cơm nhanh, giữ ấm lâu, dung tích 1.8L."
+  },
+  {
+    "name": "Máy ép chậm Philips",
+    "image": "https://images.unsplash.com/photo-1625631985681-6028cd5c5b5f?auto=format&fit=crop&w=400&q=80",
+    "price": "2.490.000₫",
+    "description": "Ép trái cây giữ nguyên dưỡng chất, dễ vệ sinh."
+  },
+  {
+    "name": "Máy xay sinh tố Sunhouse",
+    "image": "https://images.unsplash.com/photo-1601041249993-8ba9e2fe3ffe?auto=format&fit=crop&w=400&q=80",
+    "price": "650.000₫",
+    "description": "Động cơ mạnh, lưỡi dao inox bền bỉ."
+  },
+  {
+    "name": "Ấm siêu tốc Lock&Lock",
+    "image": "https://images.unsplash.com/photo-1625937322154-e27c2eb70902?auto=format&fit=crop&w=400&q=80",
+    "price": "420.000₫",
+    "description": "Dung tích 1.7L, công suất 1800W, đế xoay 360°."
+  },
+  {
+    "name": "Lò vi sóng Sharp",
+    "image": "https://images.unsplash.com/photo-1618213834770-769d7d3bc645?auto=format&fit=crop&w=400&q=80",
+    "price": "2.150.000₫",
+    "description": "Công suất 900W, chế độ nấu đa dạng."
+  },
+  {
+    "name": "Máy pha cà phê mini",
+    "image": "https://images.unsplash.com/photo-1573209982525-7fa7fb43fe49?auto=format&fit=crop&w=400&q=80",
+    "price": "1.650.000₫",
+    "description": "Thiết kế nhỏ gọn, pha espresso chuẩn vị."
+  },
+  {
+    "name": "Bình giữ nhiệt Inox 304",
+    "image": "https://images.unsplash.com/photo-1585238342025-78cdd29df4ec?auto=format&fit=crop&w=400&q=80",
+    "price": "210.000₫",
+    "description": "Giữ nóng/lạnh lên đến 12 giờ."
+  },
+  {
+    "name": "Bếp hồng ngoại Kangaroo",
+    "image": "https://images.unsplash.com/photo-1584382293950-fd3b2048eb70?auto=format&fit=crop&w=400&q=80",
+    "price": "980.000₫",
+    "description": "Không kén nồi, 5 chế độ nấu tiện dụng."
+  },
+  {
+    "name": "Máy hút bụi cầm tay",
+    "image": "https://images.unsplash.com/photo-1618213741146-ecfb5b96471b?auto=format&fit=crop&w=400&q=80",
+    "price": "890.000₫",
+    "description": "Thiết kế nhẹ, dễ di chuyển, hút sạch bụi mịn."
+  },
+  {
+    "name": "Bàn ủi hơi nước đứng",
+    "image": "https://images.unsplash.com/photo-1594312915251-48c09e60b940?auto=format&fit=crop&w=400&q=80",
+    "price": "1.300.000₫",
+    "description": "Ủi đồ nhanh, không làm cháy vải."
+  },
+  {
+    "name": "Nồi cơm điện Toshiba",
+    "image": "https://images.unsplash.com/photo-1606813902547-f4dd2dcb6f0f?auto=format&fit=crop&w=400&q=80",
+    "price": "1.200.000₫",
+    "description": "Nấu cơm nhanh, giữ ấm lâu, dung tích 1.8L."
+  },
+  {
+    "name": "Máy ép chậm Philips",
+    "image": "https://images.unsplash.com/photo-1625631985681-6028cd5c5b5f?auto=format&fit=crop&w=400&q=80",
+    "price": "2.490.000₫",
+    "description": "Ép trái cây giữ nguyên dưỡng chất, dễ vệ sinh."
+  },
+  {
+    "name": "Máy xay sinh tố Sunhouse",
+    "image": "https://images.unsplash.com/photo-1601041249993-8ba9e2fe3ffe?auto=format&fit=crop&w=400&q=80",
+    "price": "650.000₫",
+    "description": "Động cơ mạnh, lưỡi dao inox bền bỉ."
+  },
+  {
+    "name": "Ấm siêu tốc Lock&Lock",
+    "image": "https://images.unsplash.com/photo-1625937322154-e27c2eb70902?auto=format&fit=crop&w=400&q=80",
+    "price": "420.000₫",
+    "description": "Dung tích 1.7L, công suất 1800W, đế xoay 360°."
+  },
+  {
+    "name": "Lò vi sóng Sharp",
+    "image": "https://images.unsplash.com/photo-1618213834770-769d7d3bc645?auto=format&fit=crop&w=400&q=80",
+    "price": "2.150.000₫",
+    "description": "Công suất 900W, chế độ nấu đa dạng."
+  },
+  {
+    "name": "Máy pha cà phê mini",
+    "image": "https://images.unsplash.com/photo-1573209982525-7fa7fb43fe49?auto=format&fit=crop&w=400&q=80",
+    "price": "1.650.000₫",
+    "description": "Thiết kế nhỏ gọn, pha espresso chuẩn vị."
+  },
+  {
+    "name": "Bình giữ nhiệt Inox 304",
+    "image": "https://images.unsplash.com/photo-1585238342025-78cdd29df4ec?auto=format&fit=crop&w=400&q=80",
+    "price": "210.000₫",
+    "description": "Giữ nóng/lạnh lên đến 12 giờ."
+  },
+  {
+    "name": "Bếp hồng ngoại Kangaroo",
+    "image": "https://images.unsplash.com/photo-1584382293950-fd3b2048eb70?auto=format&fit=crop&w=400&q=80",
+    "price": "980.000₫",
+    "description": "Không kén nồi, 5 chế độ nấu tiện dụng."
+  },
+  {
+    "name": "Máy hút bụi cầm tay",
+    "image": "https://images.unsplash.com/photo-1618213741146-ecfb5b96471b?auto=format&fit=crop&w=400&q=80",
+    "price": "890.000₫",
+    "description": "Thiết kế nhẹ, dễ di chuyển, hút sạch bụi mịn."
+  },
+  {
+    "name": "Bàn ủi hơi nước đứng",
+    "image": "https://images.unsplash.com/photo-1594312915251-48c09e60b940?auto=format&fit=crop&w=400&q=80",
+    "price": "1.300.000₫",
+    "description": "Ủi đồ nhanh, không làm cháy vải."
+  },
+  {
+    "name": "Nồi cơm điện Toshiba",
+    "image": "https://images.unsplash.com/photo-1606813902547-f4dd2dcb6f0f?auto=format&fit=crop&w=400&q=80",
+    "price": "1.200.000₫",
+    "description": "Nấu cơm nhanh, giữ ấm lâu, dung tích 1.8L."
+  },
+  {
+    "name": "Máy ép chậm Philips",
+    "image": "https://images.unsplash.com/photo-1625631985681-6028cd5c5b5f?auto=format&fit=crop&w=400&q=80",
+    "price": "2.490.000₫",
+    "description": "Ép trái cây giữ nguyên dưỡng chất, dễ vệ sinh."
+  },
+  {
+    "name": "Máy xay sinh tố Sunhouse",
+    "image": "https://images.unsplash.com/photo-1601041249993-8ba9e2fe3ffe?auto=format&fit=crop&w=400&q=80",
+    "price": "650.000₫",
+    "description": "Động cơ mạnh, lưỡi dao inox bền bỉ."
+  },
+  {
+    "name": "Ấm siêu tốc Lock&Lock",
+    "image": "https://images.unsplash.com/photo-1625937322154-e27c2eb70902?auto=format&fit=crop&w=400&q=80",
+    "price": "420.000₫",
+    "description": "Dung tích 1.7L, công suất 1800W, đế xoay 360°."
+  },
+  {
+    "name": "Lò vi sóng Sharp",
+    "image": "https://images.unsplash.com/photo-1618213834770-769d7d3bc645?auto=format&fit=crop&w=400&q=80",
+    "price": "2.150.000₫",
+    "description": "Công suất 900W, chế độ nấu đa dạng."
+  },
+  {
+    "name": "Máy pha cà phê mini",
+    "image": "https://images.unsplash.com/photo-1573209982525-7fa7fb43fe49?auto=format&fit=crop&w=400&q=80",
+    "price": "1.650.000₫",
+    "description": "Thiết kế nhỏ gọn, pha espresso chuẩn vị."
+  },
+  {
+    "name": "Bình giữ nhiệt Inox 304",
+    "image": "https://images.unsplash.com/photo-1585238342025-78cdd29df4ec?auto=format&fit=crop&w=400&q=80",
+    "price": "210.000₫",
+    "description": "Giữ nóng/lạnh lên đến 12 giờ."
+  },
+  {
+    "name": "Bếp hồng ngoại Kangaroo",
+    "image": "https://images.unsplash.com/photo-1584382293950-fd3b2048eb70?auto=format&fit=crop&w=400&q=80",
+    "price": "980.000₫",
+    "description": "Không kén nồi, 5 chế độ nấu tiện dụng."
+  },
+  {
+    "name": "Máy hút bụi cầm tay",
+    "image": "https://images.unsplash.com/photo-1618213741146-ecfb5b96471b?auto=format&fit=crop&w=400&q=80",
+    "price": "890.000₫",
+    "description": "Thiết kế nhẹ, dễ di chuyển, hút sạch bụi mịn."
+  },
+  {
+    "name": "Bàn ủi hơi nước đứng",
+    "image": "https://images.unsplash.com/photo-1594312915251-48c09e60b940?auto=format&fit=crop&w=400&q=80",
+    "price": "1.300.000₫",
+    "description": "Ủi đồ nhanh, không làm cháy vải."
   }
 ]
