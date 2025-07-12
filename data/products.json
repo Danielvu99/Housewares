@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Ấm đun siêu tốc",
+    "price": 350000,
+    "image": "assets/images/am-sieu-toc.jpg",
+    "description": "Ấm đun siêu tốc 1.8L, inox 304, bảo hành 12 tháng."
+  },
+  {
+    "id": 2,
+    "name": "Máy xay sinh tố",
+    "price": 790000,
+    "image": "assets/images/may-xay.jpg",
+    "description": "Máy xay sinh tố đa năng công suất 600W, kèm 3 cối."
+  }
+]
